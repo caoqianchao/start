@@ -1,0 +1,95 @@
+/* CSS Document */
+.container{font-family: "宋体";}
+.control-group{ height:33px;}
+.chaxun-list{ width:990px; min-height:500px; margin:40px auto;}
+.chaxun-input{ border:1px #e0e0e0 solid; width:988px; height:165px;}
+.chaxun-input form{ width:880px; height:107px; margin:25px 0px 0px 20px;}
+.chaxun-label{ width:70px; height:28px; float:left;}
+.chaxun-label label{ float:right; margin-top:2px; color:#666666; font-size:12px;font-family:宋体;}
+.chaxun-line{ width:10px; height:1px; background:#bbbbbb; float:left; margin-top:14px; margin-right:6px;}
+.controls p{ float:left; margin-left:15px; margin-top:4px; color:#333333;font-size: 12px;
+font-family: "微软雅黑";}
+.controls select{ width:105px; height:28px;}
+.controls select.chaxun-tiaojian{ margin-left:15px;}
+.controls input,.controls select{ float:left; border:1px #bbbbbb solid; margin-right:6px;}
+.controls input{ width:91px; height:18px;}
+#control-group2{ clear:both;}
+#control-group2 input{ width:359px; height:18px;}
+.controls button.btn{ width:54px; height:27px; background:#00aaee; color:#FFF; font-family:宋体; font-size:12px; padding-top:2px;}
+
+.jiesuan-list{ width:990px; height:200px; margin:40px auto;}
+.jiesuan-list-top{ border-bottom:1px #cccccc solid; height:26px; width:990px;}
+.list-top-left{ width:500px; float:left; margin-left:18px;}
+.list-top-left ul li{ margin-right:20px; float:left; color:#333333; font-family:宋体; font-size:14px;}
+.list-top-right{ float:right;}
+.list-top-right p{ margin-right:18px; color:#999999; font-family:宋体; font-size:14px;}
+.list-top-right p a{ color:#00aaee; text-decoration:none;}
+.list-content{ width:990px; height:200px; margin:10px auto;}
+table.list-content-table{ width:982px; height:170px;}
+table.list-content-table th{ color:#010101; font-family:宋体; font-size:14px;padding-left:18px;font-family:宋体; text-align:left;  height:45px;}
+table.list-content-table td{ height:55px; line-height:20px; color:#333333; padding-left:18px;font-family:宋体; font-size:12px; text-align:left;}
+table.list-content-table td span{color:#666666;}
+table.list-content-table td a{ color:#00aaee;}
+table.list-content-table td.money{ font-size:14px;}
+table.list-content-table td.dingdan-num{ color:#666666;}
+
+
+/*财务明细*/
+#jiesuan-list{ min-height:600px;}
+.chaxun-input2{ border:1px #e0e0e0 solid; width:988px; overflow: hidden;padding-bottom: 30px;}
+.chaxun-input2 form{ width:880px; height:210px; margin:25px 0px 0px 20px;}
+.controls a{ width:43px; height:22px; color:#333333; padding:5px 8px;}
+.controls a:hover{ background:#d9f2fc; text-decoration:none;}
+.controls a.controls-all{ background:#00aaee; color:#FFF;}
+.chaxun-label label.control-label{ margin-top:-1px;}
+#control-group2 input.content-choose{ border:1px 3bcbcbc solid; background:url(../../images/jiantou.png) no-repeat 101px 7px; color:#00aaee; font-family:宋体; font-size:12px; float:right; width:127px; height:28px; padding-right:20px;}
+.keyong-yee{ padding-bottom: 10px; text-align:right;padding-right: 20px;}
+.keyong-yee span{ color:#FE0000; padding-left:5px}
+/*全部账单*/
+.tab-juti-xijiej{ margin:40px auto 30px; font-size:12px;}
+.tab-juti-xijiej tr td{ padding:20px 0; border-bottom:1px solid #EBEBEB}
+.tab-juti-xijiej .juti-xijiej td{border-bottom:1px solid #CCCCCC; padding-bottom:8px}
+.juti-xijiej td{ color:#01AAEF; font-size:14px}
+.juti-xijiej1{ width:10%}
+.juti-xijiej2{ width:40%}
+.juti-xijiej3{ width:18%}
+.juti-xijiej4{ width:13%}
+.juti-xijiej5{ width:10%}
+.juti-xijiej6{ width:10%}
+.juti-xijiej41{ font-size:16px; font-family:"微软雅黑"}
+.xiaofei-chakan p{border-bottom:1px solid #CCCCCC;padding-bottom:10px; line-height:26px}
+.xiaofei-chakan1{ background:url(../../images/gengduo-over.png) no-repeat 367px 0; width:100%; height:18px;margin-top: 6px; display:block;}
+.xiaofei-chakan2 span{ padding-left:10px}
+.xiaofei-chakan3{ overflow:hidden}
+.xiaofei-chakan3 span{ display:block; float:left; border-right:1px solid #CCC; padding-left:10px}
+.xiaofei-chakan31{ width:125px}
+.xiaofei-chakan32{ width:90px}
+.xiaofei-chakan3 .xiaofei-chakan33{ width:145px; border-right:none;}
+.xiaofei-chakan .xiaofei-chakan3{ padding-bottom:0; line-height:32px}
+.juti-xijiej41 img{ margin-left: 5px;margin-top: -5px;}
+.juti-xijiej6 .xiangqing-bg li {float: none;height: 30px;line-height: 30px;width: 100%; cursor:pointer;}
+.xiangqing-bg{ border:1px solid #CBCBCB;}
+.juti-xijiej6 .xiangqing-bg li a:hover, .juti-xijiej6 .xiangqing-bg li a.xiangqing-bgmr {background: #01AAEF;color: #FFF; height: 30px;line-height: 30px;}
+.juti-xijiej6 .xiangqing-bg li a {display: block;padding-left: 13px;height: 30px;}
+.zhangh-chak{width: 400px;border: 1px solid rgb(204, 204, 204);position: absolute;top: 592px;left: 575px; background:#FFF;}
+/*弹出框*/
+.popup{width:100%; height:100%; top:0px; z-index:9999; background-color:rgba(0,0,0,0.2); position:fixed;}
+.window{ width:534px; height:384px; margin:100px auto; background-color:rgba(0,0,0,0.5); padding:8px;}
+.window-content{width:534px; height:384px; background:#FFF;}
+.pop-top{ width:534px; height:46px; border-bottom:1px #cccccc solid;}
+.pop-top p{font-size:18px;font-family:微软雅黑; color:#000000; margin:10px 0px 15px 15px; float:left;}
+.exit{float:right; margin:15px 15px 15px 0px; }
+.pop-table{ width:470px; height:138px; margin:28px auto;}
+table.pop-tuikuan{ width:470px; height:138px;border: 1px solid #dddddd; border-collapse:collapse;}
+table.pop-tuikuan th,table.pop-tuikuan td{padding:3px 0px 0px 10px; color:#333333; border: 1px solid #dddddd;font-family:宋体; font-size:14px;}
+table.pop-tuikuan th span,table.pop-tuikuan td span{ color:#666666; font-family:Arial; font-size:12px;}
+.pop-zhushi{ width:240px; height:45px; margin:0px auto;}
+.pop-zhushi p{ color:#333333; font-family:宋体; font-size:14px; text-align:left; line-height:25px;}
+.pop-zhushi p span{color:#00aaee;}
+.pop-button{ margin:23px auto; width:239px; height:35px;}
+.pop-button input.pop-submit{ width:239px; height:35px; background:#ff9c00;color:#FFF;font-size:14px;font-family:微软雅黑; cursor:pointer; border:hidden;}
+.pop-button input.pop-submit:hover{ background:#ff7800;}
+
+
+
+

@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+.container{ font-family:"宋体"}
+.account-left{ width:210px; min-height:500px; background:#EEEEEE; margin:40px 0}
+.account-right{ width:730px; margin:40px 0; color:#333333}
+.account-left a{display:block; height:66px; line-height:66px;padding-left:48px}
+.account-nav1{ background:url(../../images/anquan_icon.png) no-repeat 6px 13px;}
+.account-nav2{ background:url(../../images/anquan_icon.png) no-repeat 6px -44px;}
+.account-nav3{ background:url(../../images/anquan_icon.png) no-repeat 6px -108px;}
+.account-left a .accont-jkh{ background:url(../../images/anquan_icon.png) no-repeat 6px -162px; float:right; width:70px}
+.account-navmr .account-nav1,.account-nav1:hover{ background:#DDDDDD url(../../images/anquan_icon.png) no-repeat 6px -222px; color:#00AAEF}
+.account-navmr .account-nav2,.account-nav2:hover{ background:#DDDDDD url(../../images/anquan_icon.png) no-repeat 6px -279px; color:#00AAEF}
+.account-navmr .account-nav3,.account-nav3:hover{ background:#DDDDDD url(../../images/anquan_icon.png) no-repeat 6px -343px; color:#00AAEF}
+.account-left .account-navmr .accont-jkh,.account-left .accont-jkh:hover{background:url(../../images/anquan_icon.png) no-repeat 6px -403px;}
+/*-------侧导航蓝 end-------*/
+.shangcia{ margin-top:20px}
+.shangci{ line-height:30px; padding-left:10px; }
+.shangci span{ color:#999999; padding-left:10px}
+.shangcib{border-bottom:1px solid #EEEEEE; height:20px}
+.dengl-mi{border-bottom:1px solid #EEEEEE; line-height:60px; overflow:hidden;margin-top: 20px; padding-left:10px}
+.dengl-mi span,.dengl-mi a{ display:block; float:left}
+.dengl-mi1{ width:220px; background:url(../../images/anquan_icon.png) no-repeat 48px -459px;}
+.dengl-mi2{ width:450px; color:#999999}
+.dengl-mi3{ width:50px; color:#01AAEF}
+.anquan-mi1{width:220px;}
+.dengl-mi2 b{ color:#FF7700; padding:0 10px}
+/*-------安全设置 end-------*/
+.chongzhi-title{ margin-top:40px; border-bottom:1px solid #CFCFCF;  line-height:31px; height:32px; font-size:16px}
+.chongzhi-title span,.chongzhi-title a{ display:block; float:left}
+.chongzhi-title span{ border-bottom:3px solid #A1A1A1; width:140px; text-align:center;}
+.chongzhi-title a{ float:right; color:#00AAEF;font-size:14px}
+.success-icon{ text-align:center; margin-bottom:30px; margin-top:80px}
+.success-icon p{ display:inline-block; background:url(../../images/success.png) no-repeat; height:50px; line-height:50px; padding-left:60px; font-size:18px;}
+.xin-zfmi{ text-align:center; letter-spacing:2px}
+.jing-jc{ background:#E4F5FF; padding:20px; margin:30px 0}
+.jing-jc span,.jing-jc img{ float:left}
+.jing-jc span{ margin-left:20px; line-height:40px;}
+.wangji-mim{ margin-bottom:30px}
+.wangji-mim span{ display:block; float:left; line-height:25px}
+.wangji-mim1{width: 7px;height: 25px;border-radius: 8px;background: #FF7802; margin:0 10px 0 40px; }
+.ynzheng-fangshi{ border:1px solid #DDDDDD;width: 700px;margin: 0 auto;padding: 10px 20px;}
+.ynzheng-fangshi:hover{ border:1px solid #BBBBBB}
+.duanxin-ynz{ width:460px; float:left}
+.duanxin-ynz dt{ background:url(../../images/wangji.png) no-repeat -13px -6px; width:50px; height:70px; float:left}
+.duanxin-ynz dd{ float:left; width:400px; color:#999; line-height:32px; font-size:13px}
+.duanxin-ynz .duanxin-ynz1{ color:#333;font-size:14px}
+.duanxin-ynz .duanxin-ynz1 span{ display:block; float:left;}
+.duanxin-ynz .duanxin-ynz1 b{ background:url(../../images/wangji.png) -8px -429px; width:52px; display:block; float:left;text-align: center;color: #FFF;font-size: 12px;line-height: 32px;}
+.ynzheng-fangshi .liji-czhi{ float:right; width:218px; height:36px; text-align:center; color:#FFF; background:#FFAF32; display:block; border:1px solid #FFAF32; margin-top: 17px;}
+.ynzheng-fangshi .liji-czhi:hover{ background:#FF9C00}
+.ynzheng-fangshia{ border-top:1px solid #FFF;}
+.ynzheng-fangshia:hover{border-top:1px solid #BBBBBB;}
+.jide-mim{ margin-top:30px}
+.youxi-ynz dt{background:url(../../images/wangji.png) no-repeat -13px -99px;}
+.mibao-ynz dt{background:url(../../images/wangji.png) no-repeat -13px -203px;}
+.zhifu-ynz dt{background:url(../../images/wangji.png) no-repeat -13px -310px;}
+.youxi-ynz .duanxin-ynz1 span{ margin-top:24px}
+.ynzheng-fangshib{ margin-bottom:80px}
+/*-------重置支付密码 end-------*/
+.nin-syd{ background:#E4F5FF; padding:10px 20px}
+.nin-syd span{ color:#FF7900}
+.zhahusz-form{ margin:60px auto; width: 700px;}
+.zhahusz-form input { line-height: 32px;height: 32px;width: 300px;}
+.wangji-mimaa{ color:#00AACE;}
+.btn—step,.btn—iphon{ display:block; width:314px; margin:20px 0; height:39px; color:#FFF;font-size: 16px;}
+.btn—step{ background:#FF9233}
+.btn—iphon{ background:#C9C9C9}
+.zhahusz-form .yzm-input {width: 160px;}
+.zhahusz-form .huoqu-yanz {height: 40px;width: 134px;}
+.shouji-haos{ line-height:39px}
+
+.tanchu-content{width:552px; margin:40px auto 80px}
+.close-botton{ border-bottom:1px solid #CCCCCC; }
+.close-botton span{ font-size:18px;line-height:36px; padding-left:10px}
+.close-botton a{ font-size:24px; line-height:36px; padding-right:10px}
+.youxiang-icon{ background:url(../../images/tankang_icon.png) no-repeat scroll 38px 0; height:40px; line-height:46px; font-size:16px;padding-left: 93px;margin: 20px 0;}
+.youxiang-lianjie{ padding-left:93px; margin-bottom:20px}
+.rightaway{ background:#FF9C00; color:#FFF; width:216px; height:32px; margin-left:91px;}
+.no-return{ color:#01AAEF; padding-left:10px;}
+.jiancha{ border:1px solid #BDBDBD; padding:20px 10px; width:350px; margin: 20px auto;}
+.jiancha li{ list-style:inside; line-height:32px}
+.chongxin-fs{ padding:3px 12px; margin-left:5px}
+.anquanmb-haos{line-height:39px; color:#999}
+.zhanghumi-hao{line-height:39px; color:#FF7900}
+
+.zhahusz-form select {line-height: 39px;height: 39px;width: 313px;}
+.daan-xqing{ margin-left:185px; margin-bottom:20px}
+.daan-xqing p{ line-height:32px}
+.gaodi{ margin-bottom: 20px;overflow: hidden;width: 472px;float: right;}
+.gaodi a{ display:block; float:left; width:70px; height:25px; line-height:25px; text-align:center; border:1px solid #ccc;margin:0 10px}
+.gaodi a.gaodi-mr{ background:#FF9C00; color:#FFF;border:1px solid #FF9C00; }
+.tishi-list,.tishi-lista2{ display:block;top: 452px;left: 812px; max-width: 330px; font-size:12px;}
+.tishi-lista2{ top: 312px;left: 866px;}
+.tishi-list-qiye1{ top:369px}
+.tishi-list-qiye2{top:635px}
+.tishi-list-icon2{ background:url(../../images/icon-info-sign.png) no-repeat left center;padding-left:22px}
+.tishi-list p,.tishi-lista2 p{ line-height:32px}
+.tishi-list-icon{ background:url(../../images/list-icon.png) no-repeat left center; padding-left:22px}
+.tishi-list-icon1{ background:url(../../images/list-icon-an.png) no-repeat left center;padding-left:22px}
+/*-------重置支付密码 验证身份 end-------*/
+
+
+
+
+

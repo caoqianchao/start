@@ -1,0 +1,16 @@
+.nav-search-input {
+    border-radius: 4px !important;
+    border: #6fb3e0 1px solid !important;
+    color: #666 !important;
+    font-size: 13px !important;
+    min-height: 18px !important;
+    transition: all 0.15s ease 0s !important;
+    width: 120px !important;
+    z-index: 11 !important;
+}
+
+.nav-search-icon {
+    color: #6fb3e0 !important;
+    font-size: 14px !important;
+    line-height: 24px !important;
+}
